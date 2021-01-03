@@ -1,0 +1,83 @@
+.head{
+    background-color: aquamarine;
+}
+.left{
+
+    padding-left: 50px;
+
+}
+.tgl{
+
+    padding-left: 560px;
+    font-size: 10px;
+
+}
+.header{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+
+}
+.rapot{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+    width:100%;
+
+}
+.KKM{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+
+}
+.pelajaran{
+
+    width:35%;
+}
+.masukan{
+    width:20%;
+}
+.no,.kkm{
+    width:5%;
+}
+.rapott{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+    width:90%;
+    height:100%;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.nama{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 10px;
+    width:90%;
+    height:100%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.Laporan{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    padding-left: 270px;
+
+}
+.pr{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    padding-left: 560px;
+    padding-top: 100px;
+
+}
+.pr1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    padding-left: 550px;
+    padding-top: 0px;
+
+}
+.pr2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    padding-left: 500px;
+    padding-top: 150px;
+
+}
